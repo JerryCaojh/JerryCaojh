@@ -1,16 +1,31 @@
-### Hi there 👋
+## Basic Information
 
-<!--
-**JerryCaojh/JerryCaojh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Rectory School '24 in north-east Connecticut. Before that starting in 2022, I studied at Shanghai United International School until 7th grade.
 
-Here are some ideas to get you started:
+## I am learning
+- Latin
+- Digital Humanities
+- 18.02 on MIT OpenCourseWare
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am interested in
+- Violin
+- Photography
+- Sketching
+
+## I am self-learning
+- Python
+- Html + CSS + JS
+- Octave
+- R
+- Batch
+
+## I can communicate in
+- Chinese
+- English
+- *German*
+- *Spanish*
+- *Latin*
+
+## I am a part of
+- [Rebooting Future](https://jerrycaojh.github.io/rebooting-future/)
+- [African Community Education](https://www.africancommunityeducation.org/)
