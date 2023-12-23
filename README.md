@@ -34,5 +34,5 @@ Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Re
 - *Latin*
 
 **I am a part of**
-- [Rebooting Future](https://jerrycaojh.github.io/rebooting-future/)
+- [Rebooting Future](../rebooting-future/)
 - [African Community Education](https://www.africancommunityeducation.org/)
