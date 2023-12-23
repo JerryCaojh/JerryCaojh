@@ -1,6 +1,6 @@
 **Basic Information**
 
-Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Rectory School '24 in north-east Connecticut. Before that starting in 2022, I studied at Shanghai United International School until 7th grade.
+Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Rectory School '24 in northeast Connecticut. Before that starting in 2022, I studied at Shanghai United International School until 7th grade.
 
 **I am learning**
 - Latin
@@ -34,5 +34,5 @@ Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Re
 - *Latin*
 
 **I am a part of**
-- [Rebooting Future](../rebooting-future/)
+- [Rebooting Future](https://jerrycaojh.github.io/rebooting-future/)
 - [African Community Education](https://www.africancommunityeducation.org/)
