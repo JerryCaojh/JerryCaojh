@@ -12,6 +12,13 @@ Hello! I am Jiahao Cao and you can call me Jerry. I am currently a student at Re
 - Photography
 - Sketching
 
+## At Rectory, I am
+- Student Council Vice President
+- Dorm Proctor
+- Head Waiter
+- Admission Ambassador
+- John Hazen White Sr. Cup recipient
+
 ## I am self-learning
 - Python
 - Html + CSS + JS
